@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=iopenet.visitor-badge)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iopenet&theme=onedark&show_icons=true)](https://github.com/iopenet/iopenet)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=iopenet.visitor-badge&left_color=#212527&right_color=#1f6feb)
