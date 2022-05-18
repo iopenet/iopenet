@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iopenet&theme=gruvbox&hide_border=true&show_icons=true)](https://github.com/iopenet/iopenet)
+![Iopenet's GitHub stats](https://github-readme-stats.vercel.app/api?username=iopenet&show_icons=true&theme=codeSTACKr)
+
 
 ### 🛠 &nbsp;Tech Stack
 
