@@ -41,3 +41,5 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;  
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=iopenet.visitor-badge&left_color=#212527&right_color=#1f6feb)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iopenet&theme=dark)](https://git.io/streak-stats)
